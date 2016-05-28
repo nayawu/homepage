@@ -20,6 +20,13 @@ body {
 	font-weight: normal;
 }
 
+.logopic{
+    width:330px;
+    height: 190px;
+    background-image: url("../images/logo.png");
+    background-position: center;
+    margin:0 auto;
+}
 
 /********************************************************/
 /*                    Navigation bar                    */
