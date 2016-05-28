@@ -26,6 +26,7 @@ body {
     background-image: url("../images/logo.png");
     background-position: center;
     margin:0 auto;
+    opacity: 0.75;
 }
 
 /********************************************************/
@@ -145,18 +146,20 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 
 .title,
 .subtitle { 
-	font-family: 'Wire One', Helvetica, Arial, sans-serif;
+	/* font-family: 'Wire One', Helvetica, Arial, sans-serif; */
+    font-family: 'Alegreya Sans SC', sans-serif;
 	font-weight:normal;
-	font-size:7em;
+	font-size:4em !important;
 	margin-bottom:15px; 
 	color:#FDF9F4; 
 	line-height:1em;
+    text-transform:lowercase;
 }
 .subtitle { 
 	line-height:.9em;
 	font-size:5.5em;
 	margin-top:0;
-	margin-bottom:40px; 
+	margin-bottom:20px; 
 }
 .tagline { 
 	font-size:1.4em;
@@ -170,6 +173,8 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 		font-size:1.3em;
 	}
 }
+
+
 
 
 /********************************************************/
