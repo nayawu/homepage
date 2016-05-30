@@ -154,6 +154,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	color:#FDF9F4; 
 	line-height:1em;
     text-transform:lowercase;
+    opacity: 0.8;
 }
 .subtitle { 
 	line-height:.9em;
