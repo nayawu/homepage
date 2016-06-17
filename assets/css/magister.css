@@ -29,6 +29,22 @@ body {
     opacity: 0.75;
 }
 
+.ul.list-inline.list-social{
+margin: 0 auto;
+width: 460px;
+}
+
+form {
+margin: 0 auto;
+width: 160px;
+}
+.mc-field-group {
+    height: 29px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+
 /********************************************************/
 /*                    Navigation bar                    */
 /********************************************************/
@@ -118,13 +134,13 @@ body {
 	width: 100%; 
 	overflow:auto;
 	height:100%;
-	padding-top:100px;
+     padding-top:100px;
 	padding-bottom:50px; 
 	display:none;
 	top:0;
 } 
 @media (min-width: 768px) {
-	.section { padding-top:160px;}
+	.section {/* padding-top:160px;*/}
 }
 
 /* Show one of sections */
