@@ -29,15 +29,12 @@ body {
     opacity: 0.75;
 }
 
-.ul.list-inline.list-social{
-margin: 0 auto;
-width: 460px;
+ul.list-inline.list-social {
+    margin: 0 auto;
+    width: 465px;
 }
 
-form {
-margin: 0 auto;
-width: 160px;
-}
+
 .mc-field-group {
     height: 29px;
     overflow: hidden;
