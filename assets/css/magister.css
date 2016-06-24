@@ -217,6 +217,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 }
 
 .btn-link {
+    display: inline-block;
 	color:rgba(255,255,255,.8);
 }
 .btn-link:hover, .btn-link:focus, .btn-link:active {
