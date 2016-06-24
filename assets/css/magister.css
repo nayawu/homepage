@@ -1,5 +1,5 @@
 html {
-	background:#505D6E url(../images/body4.jpg) no-repeat center center fixed; 
+	background:#505D6E url(../images/IMG_0001.png) no-repeat center center fixed; 
 	min-height:100%;
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
@@ -19,14 +19,16 @@ body {
 	color:rgba(255,255,255,.8); 
 	font-weight: normal;
 }
-.logopic{
+ .logopic{
     width:330px;
     height: 190px;
-    background-image: url("../images/logo.png");
+    background-image: url("../images/BlueHours2.png");
     background-position: center;
-    margin:0 auto;
-    opacity: 0.75;
-}
+    background-size: 100% auto;
+    background-repeat:no-repeat;
+    margin: 0 auto;
+    opacity: 1;
+} 
 
 ul.list-inline.list-social {
     margin: 0 auto;
@@ -187,6 +189,10 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	}
 }
 
+.enjoy { 
+	margin-top:40%;
+}
+
 
 
 
@@ -260,7 +266,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 }
 
 
-/* Social buttons in the footer */
+/* Social buttons`in the footer */
 #social { 
 	margin-top:50px;
 	margin-bottom:50px;
