@@ -27,7 +27,7 @@ body {
     background-size: 100% auto;
     background-repeat:no-repeat;
     margin: 0 auto;
-    opacity: 1;
+    opacity: auto;
 } 
 
 ul.list-inline.list-social {
